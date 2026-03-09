@@ -1,12 +1,13 @@
 ------------POST-----------
-http://127.0.0.1:5000/Carro
+http://127.0.0.1:5000/Produto
 ---------------------------
 
 Body - raw - JSON
 
 {
-  "modelo": "Notebook Gamer Acer Nitro V15 Intel Core i5-13420H",
-  "marca": "Acer",
-  "ano": 1975
+  "Nome": "Notebook Gamer Acer Nitro V15 Intel Core i5-13420H",
+  "Categoria": "Eletronicos",
+  "preco": 6.000
 
 }
+
