@@ -5,7 +5,8 @@ http://127.0.0.1:5000/Carro
 Body - raw - JSON
 
 {
-  "modelo": "Fusca 2.0",
-  "marca": "Volkswagen",
+  "modelo": "Notebook Gamer Acer Nitro V15 Intel Core i5-13420H",
+  "marca": "Acer",
   "ano": 1975
+
 }
